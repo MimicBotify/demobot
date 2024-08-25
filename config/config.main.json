@@ -16,14 +16,14 @@
     "LANGUAGE": "en_US",
     "LOG_LEVEL": 1,
     "MODERATORS": [
-        "100008907121641"
+        "100039556069166"
     ],
     "ABSOLUTES": [
-        "100008907121641"
+        "100039556069166"
     ],
-    "NAME": "Xavia",
-    "PREFIX": "x",
-    "timezone": "Asia/Ho_Chi_Minh",
+    "NAME": "Raisa",
+    "PREFIX": "/",
+    "timezone": "Asia/Dhaka",
     "REFRESH": "43200000",
     "MAX_BALANCE_LIMIT": "-1"
 }

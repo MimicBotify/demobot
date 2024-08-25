@@ -30,5 +30,18 @@
   "send": {
     "minAmount": 100,
     "fee": 0.05
+  },
+  "audio": {
+    "MAX_SONGS": 6
+  },
+  "video": {
+    "MAX_VIDEOS": 6
+  },
+  "rule34": {
+    "USAGE_COST": 1000
+  },
+  "sim": {
+    "extraProp": "Additional properties can be added here.",
+    "APIKEY": "Meew_bUnnsLweYeuBabAwUmz6Okd4JLmjWx"
   }
 }
